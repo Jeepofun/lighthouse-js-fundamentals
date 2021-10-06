@@ -9,3 +9,18 @@ console.log("Short sleeves are fine.")
 }
 console.log("Now you're ready to go outside!");
 
+const isCitizen = true;
+const age = 26;
+
+if (isCitizen && age > 18) {
+console.log("You are eligible to vote.")
+
+const temperature = 50
+if (temperatue < -40 || temperature >40) {
+console.log("Maybe going outside isn't such a great idea...");
+}
+
+const weather = raining
+if (!raining) {
+console.log("Leave your umbrella at home!");
+}
